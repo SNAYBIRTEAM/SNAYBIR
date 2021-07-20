@@ -26,4 +26,3 @@
 # <p align="center" > [Exp Source](https://t.me/EPX_SNAYBIR) • [شروحات السورس](https://t.me/EPX_SNAYBIR)
 # <p align="center" > [Source Prog](https://t.me/OMMO10) • [مبرمج السورس](https://t.me/OMMO10)
 # <p align="center" > [onnection Bot](https://t.me/QADHB_BOT) • [بوت التواصل](https://t.me/QADHB_BOT)
-# <p align="c
