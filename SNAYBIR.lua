@@ -4195,11 +4195,11 @@ Welcome To Source
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 ⌁︙[Source Channel](https://t.me/SNAYBIR)
 
-⌁︙[Exp Source](https://t.me/Exp_Dev)
+⌁︙[Exp Source](https://t.me/EPX_SNAYBIR)
 
-⌁︙[Developer](https://t.me/IQ_ABS)
+⌁︙[Developer](https://t.me/OMMO10)
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Tws SNAYBIR](https://t.me/IQA_bot)
+⌁︙[Tws SNAYBIR](https://t.me/QADHB_BOT)
 ]]
 Dev_Abs(msg.chat_id_, msg.id_, 1, text, 1, 'md')
 end
