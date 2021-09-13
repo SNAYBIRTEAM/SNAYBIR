@@ -4359,8 +4359,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, DevText, 1, "md")
 else
 Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙*Dev User* ↬ ['..DevUser..']\n⌁︙*Dev Id* ↬ '..DevId..DevCh, 1, "md")
 end
-end,nil)
-end 
+end
 --     Source SNAYBIR     --
 if text and text:match('^هينه @(.*)') and ChCheck(msg) or text and text:match('^هينها @(.*)') then 
 if not DevAbs:get(SNAYBIR..'Abs:Lock:Stupid'..msg.chat_id_) then
